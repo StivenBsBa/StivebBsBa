@@ -21,6 +21,6 @@ Puedes leer sobre mis experiencias y proyectos en mi blog profesional: [mi blog 
 **[Gestión de Bases de Datos](link-a-tu-repositorio)**: Proyecto donde implemento soluciones eficientes en bases de datos relacionales y NoSQL.
 
 ## 📞 Contacto
-- Correo electrónico: [tu-email@example.com](bsbariza@gmial.com)
-- LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/brayanstiven/)
+- Correo electrónico: [bsbariza@gmail.com](bsbariza@gmial.com)
+- LinkedIn: [Mi LinkedIn](https://www.linkedin.com/in/brayanstiven/)
 
